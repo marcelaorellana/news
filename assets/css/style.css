@@ -62,6 +62,25 @@ img.img-responsive{
 	color: #fff;
 	padding: 10px 25px;
 	font-weight: 700;
-
 }
 
+/*************************************POPULAR/HOT*****************************/
+.linea{
+	box-sizing: border-box;
+	border-bottom: 1px solid #EA4748; /*Sandia*/
+	padding: 0;
+	margin-left: 15px;
+	width: 95%;
+}
+.linea h3{
+	display: inline-block;
+	border-bottom: 2px solid #EA4748; /*Sandia*/
+	padding: 0;
+	margin: 0;
+}
+.espacio{
+	margin-top: 10px;
+}
+hr{
+	margin-top: 0;
+}
