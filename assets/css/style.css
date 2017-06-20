@@ -1,1 +1,37 @@
-/* Holiii otra vez */
+/*  ##EA4748; /*Sandia*/
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	font-family: 'Merriweather Sans', sans-serif;
+} 
+.sandia{
+	color: #EA4748; /*Sandia*/
+}
+.navbar.navbar-default{
+	background-color: transparent;
+	border: none;
+}
+.navbar-header{
+	width: 100%;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+.div-btn{
+	width: 100%;
+}
+.navbar-header .collapsed{
+	
+	float: left;
+}
+#bs-example-navbar-collapse-1{
+	width: 100%;
+}
+.menu{
+	width: 100%;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
